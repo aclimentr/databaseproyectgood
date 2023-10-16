@@ -83,6 +83,8 @@ aside{
     flex-direction: column;
     margin-top: 100px;
     align-items: center;
+    margin-left: 0px;
+
 }
 .logintit{
     margin-bottom: 10px;
@@ -106,6 +108,7 @@ aside{
     flex-direction: column;
     margin-top: 100px;
     align-items: center;
+    margin-left: 0px;
 }
 .genreinp{
     width: fit-content;
